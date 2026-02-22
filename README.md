@@ -1,6 +1,6 @@
 Name:Lavanya C G
 ------------------------------------------------------
-Questions Attempted
+*Questions Attempted
 
 Q1  - Personal Bio Card (Easy) – 2 Marks  
 Q2  - Simple Calculator (Easy) – 2 Marks  
@@ -23,7 +23,7 @@ Q18 - Calculator Functions (Medium) – 7 Marks
 Q19 - Text Analysis Functions (Hard) – 9 Marks  
 Q20 - Number System Functions (Hard) – 9 Marks  
 -------------------------------------------------------
-Special Instructions
+*Special Instructions
 
 -All programs are written in Python.
 - Programs are function-based wherever required.
@@ -32,7 +32,7 @@ Special Instructions
 - Output formatting is kept simple and readable.
 - Each program is tested with multiple inputs.
 ---------------------------------------------------------
-Challenges Faced
+*Challenges Faced
 
 -Understanding the problem statements clearly and converting them into working logic.
 - Debugging logical errors, especially in loops and conditional statements.
