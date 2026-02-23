@@ -1,9 +1,3 @@
-"""
-Program Name: Grade Calculator
-Description : Calculates total, percentage, grade and result
-Author      : Lavanya C G
-"""
-
 # Taking marks input
 Kannada = int(input("Enter marks for kannada: "))
 English = int(input("Enter marks for english: "))
