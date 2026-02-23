@@ -1,9 +1,9 @@
-Name:Lavanya C G
+<h1>Name:Lavanya C G</h1>
 ------------------------------------------------------
-*Questions Attempted
+<h1>*Questions Attempted</h1>
 
-Q1  - Personal Bio Card (Easy) – 2 Marks  
-Q2  - Simple Calculator (Easy) – 2 Marks  
+<p>Q1  - Personal Bio Card (Easy) – 2 Marks</p> 
+<p>Q2  - Simple Calculator (Easy) – 2 Marks</p>  
 Q3  - String Manipulator (Medium) – 4 Marks  
 Q4  - Age Calculator (Medium) – 4 Marks  
 Q5  - Bill Splitter (Medium) – 4 Marks  
