@@ -41,6 +41,7 @@ pip install groq cohere requests huggingface_hub
 # API Key Setup
 
 ## Windows PowerShell
+'''
 $env:GROQ_API_KEY="enter_your_key"
 $env:HUGGINGFACE_API_KEY="enter_your_key"
 $env:COHERE_API_KEY="enter_your_key"
@@ -50,7 +51,7 @@ $env:COHERE_API_KEY="enter_your_key"
 # How to Run
 
 ## Run Individual Files
-
+'''
 python groq_example.py
 python ollama_example.py
 python huggingface_example.py
